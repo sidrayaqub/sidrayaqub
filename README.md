@@ -22,5 +22,3 @@ Currently building an isolated vulnerability scanning lab (VirtualBox, Metasploi
 ## 📚 Learning path
 TryHackMe SOC Level 1 → Microsoft SC-900 → CompTIA Security+
 
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
