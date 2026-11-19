@@ -15,9 +15,9 @@ Currently building an isolated vulnerability scanning lab (VirtualBox, Metasploi
 
 ## 🛠️ Tools I've used
 
-**Coding and data:** Python, pandas, statsmodels, scikit-learn, Power BI, Google Colab, VS Code
-**Security:** VirtualBox, Nmap, Nikto
-**Frameworks:** ITIL v3 Foundation
+- **Coding and data:** Python, pandas, statsmodels, scikit-learn, Power BI, Google Colab, VS Code
+- **Security:** VirtualBox, Nmap, Nikto
+- **Frameworks:** ITIL v3 Foundation
 
 ## 📚 Learning path
 TryHackMe SOC Level 1 → Microsoft SC-900 → CompTIA Security+
