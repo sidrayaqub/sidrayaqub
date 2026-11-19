@@ -11,10 +11,7 @@ Auckland-based photographer and content creator, studying a **Master of Informat
 
 ## 🔐 Cyber Security
 
-| Project | What it is |
-|---|---|
-| [Cyber Home Lab](https://github.com/sidrayaqub/cyber-home-lab) | Isolated vulnerability scanning lab: VirtualBox, Metasploitable2, Nmap and Nikto |
-| [Cyber Study Notes](https://github.com/sidrayaqub/cyber-study-notes) | My notes from TryHackMe SOC Level 1, Microsoft SC-900 and CompTIA Security+ |
+Currently building an isolated vulnerability scanning lab (VirtualBox, Metasploitable2, Nmap, Nikto). Write-up coming soon.
 
 ## 🛠️ Tools I've used
 
